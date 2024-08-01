@@ -1,0 +1,19 @@
+{
+    "development" : {
+      "username"  : "fdi_osw",
+      "password"  : "Fdi.OSW@1$$#",
+      "database"  : "fdi_osw",
+      "host"      : "nodejs-projects-mysqldatabase",
+      "port"      : 3306,
+      "dialect"   : "mysql"
+    },
+    "local"       : {
+      "username"  : "root",
+      "password"  : "",
+      "database"  : "fdi_osw",
+      "host"      : "localhost",
+      "port"      : 3306,
+      "dialect"   : "mysql"
+    }
+  }
+  
